@@ -1,6 +1,11 @@
-# Wave-U-Net-for-Speech-Enhancement
+# Transferring Spatial Information to Monaural Speech Enhancement via Contrastive Knowledge Distillation
 
-Implement [Wave-U-Net](https://arxiv.org/abs/1806.03185) by PyTorch, and migrate it to the speech enhancement.
+Implement "Transferring Spatial Information to Monaural Speech Enhancement via Contrastive Knowledge Distillation" by PyTorch, and migrate it to the speech enhancement.
+
+Paper:
+
+Transferring Spatial Information to Monaural Speech Enhancement via Contrastive Knowledge Distillation, submitted to TASLP
+Injecting Spatial Information for Monaural Speech Enhancement via Knowledge Distillation, submitted to ICASSP 2023
 
 ![](./doc/tensorboard.png)
 ![](./doc/audio.png)
